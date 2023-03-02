@@ -1,0 +1,14 @@
+# Dev Dependencies
+importchecker==2.0
+pycodestyle==2.4.0
+
+# Dependencies
+feedparser==6.0.10
+google-api-python-client==2.80.0
+minet==0.66.1
+playwright==1.28.0
+playwright_stealth==1.0.5
+selenium==4.8.2
+Selenium-Screenshot==2.0.0
+tqdm==4.60.0
+webdriver-manager==3.8.5
